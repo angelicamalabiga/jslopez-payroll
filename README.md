@@ -49,7 +49,7 @@ This system aims to reduce manual payroll processing by providing automated comp
 <img width="1917" height="1133" alt="image" src="https://github.com/user-attachments/assets/9582bfc0-613a-4e6a-89f5-3c6d92169645" />
 
 ## Note
-This project was developed for J.S. Lopez Consultant. The repository contains the system implementation using sample data for portfolio purposes.
+This project was developed for J.S. Lopez Consultant. This repository showcases the system overview, documentation, and screenshots. Source code is not publicly available due to project ownership and confidentiality. 
 
 
 
